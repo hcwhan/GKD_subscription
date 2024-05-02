@@ -11,7 +11,7 @@ export default defineGkdApp({
       activityIds: 'com.vphonegaga.titan.homepage.HomePageActivity',
       rules:
         'WebView > WebView > View[index=0] > View[index=1] > View[index=0] > View[index=2] > View[index=0] > View[index=0]',
-      snapshotUrls: 'https://i.gkd.li/snapshot/1714636564741',
+      snapshotUrls: 'https://i.gkd.li/i/15185596',
     },
   ],
 });
